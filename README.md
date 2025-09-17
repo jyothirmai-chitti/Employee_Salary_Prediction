@@ -13,7 +13,7 @@ It demonstrates a complete pipeline starting from **data preprocessing**, **mode
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 - Data preprocessing with categorical encoding  
 - Machine learning model training using **Linear Regression**  
 - Model serialization with `pickle`  
